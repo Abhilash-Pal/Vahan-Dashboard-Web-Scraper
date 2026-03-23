@@ -1,0 +1,2 @@
+Built an automated Selenium-based data pipeline to extract vehicle registration data across the Indian states 
+from Vahan Dashboard, processed 50K+ records using Pandas, and developed a Tableau dashboard to analyze goods carrier distribution (LGV/MGV/HGV).
